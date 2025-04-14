@@ -1,0 +1,124 @@
+2025-04-11 15:11:13,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:11:13,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:11:13,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:11:13,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:16:25,022:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:16:25,053:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:16:25,053:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:16:25,054:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:27:50,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:27:50,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:27:50,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:27:50,509:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:29:15,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:29:15,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:29:15,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:29:15,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:29:16,171:INFO:Initializing load_model()
+2025-04-11 15:29:16,171:INFO:load_model(model_name=./models/predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:31:12,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:31:12,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:31:12,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:31:12,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:31:12,999:INFO:Initializing load_model()
+2025-04-11 15:31:13,000:INFO:load_model(model_name=D:\epics_machine_learning_model\models\predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:33:12,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:33:12,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:33:12,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:33:12,629:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:33:13,415:INFO:Initializing load_model()
+2025-04-11 15:33:13,415:INFO:load_model(model_name=predictive_maintenance.pkl, platform=None, authentication=None, verbose=True)
+2025-04-11 15:34:06,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:06,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:06,586:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:06,587:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:07,293:INFO:Initializing load_model()
+2025-04-11 15:34:07,293:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:34:24,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:24,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:24,491:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:24,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:34:25,201:INFO:Initializing load_model()
+2025-04-11 15:34:25,202:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:35:00,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:35:00,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:35:00,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:35:00,564:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:35:01,301:INFO:Initializing load_model()
+2025-04-11 15:35:01,301:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:36:30,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:36:30,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:36:30,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:36:30,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:36:31,412:INFO:Initializing load_model()
+2025-04-11 15:36:31,413:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:39:48,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:39:48,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:39:48,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:39:48,421:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:39:49,146:INFO:Initializing load_model()
+2025-04-11 15:39:49,146:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:42:48,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:42:48,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:42:48,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:42:48,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:42:48,824:INFO:Initializing load_model()
+2025-04-11 15:42:48,824:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
+2025-04-11 15:43:01,112:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:43:01,112:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:43:01,112:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:43:01,113:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-11 15:43:01,765:INFO:Initializing load_model()
+2025-04-11 15:43:01,765:INFO:load_model(model_name=predictive_maintenance, platform=None, authentication=None, verbose=True)
